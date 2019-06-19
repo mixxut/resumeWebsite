@@ -1,7 +1,6 @@
-    h1{
+        h1{
         text-transform: uppercase;        
         letter-spacing: 3px;
-        text-decoration: underline;
     }
 
     ul{
@@ -18,18 +17,17 @@
         line-height: 1.5;
     }
     #mainContent {
-        margin-top: 30px;
+        margin: 30px;
         margin-left: 30%;
         margin-right: 30%;
-        margin-bottom: 30px;
   		background-color: white;
   		text-align: center;
   		color: black;
-  		font-family: Arial, Helvetica, sans-serif;
+  		font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	}
 	
     ul.li{
-
+        line-height: 4.5;
 
     }
 
@@ -59,45 +57,3 @@
 
 
     }
-	/*#header{
-    background-color:tomato;
-    padding-top: 0px;
-    padding-right: 735px;
-    padding-bottom: 50px;
-    
-    }
-    
-    #nav{
-    width: 500px;
-    line-height: 115px;
-    background-color:Orange;
-    padding-right: 759px;
-    padding-bottom: 050px;
-    }
-    
-	#section{
-    width: 270px;
-    line-height: 15px;
-    background-color: DodgerBlue;
-    padding-right: 270px;
-    padding-bottom: 40px;
-    }
-	
-    #article{
-    width: 500px;
-    display: inline; wrong does wrong thing
-    background-color: MediumSeaGreen;
-    padding-right: 415px;
-    
-    padding-bottom: 40px;
-    }
-    
-	#footer{
-    width: 500px;
-    background-color: SlateBlue;
-    line-height: 95px;
-    /*padding-top: 60px;
-    padding-right: 745px;
-    padding-bottom: 40px;
-    }
-    */ 
