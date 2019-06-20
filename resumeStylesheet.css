@@ -20,10 +20,9 @@
         margin: 30px;
         margin-left: 30%;
         margin-right: 30%;
-  		background-color: white;
-  		text-align: center;
-  		color: black;
-  		font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  	text-align: center;
+  	color: black;
+  	font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	}
 	
     ul.li{
